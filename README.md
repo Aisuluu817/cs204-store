@@ -15,7 +15,9 @@
  
  - bootstrap, thymeleaf
  
- - deployed to heroku - https://rest-project-aisuluu.herokuapp.com/api/v1/products
+ - deployed to heroku :
+ -  backend https://rest-project-aisuluu.herokuapp.com/api/v1/products
+ -  frontend https://rest-project-aisuluu-front.herokuapp.com/ 
  
 # - Api description:
 - to getAllProducts - /api/v1/products 
